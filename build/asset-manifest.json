@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-aem-remotepage/static/css/main.528649a4.chunk.css",
+    "main.js": "/react-aem-remotepage/static/js/main.a16d4593.chunk.js",
+    "main.js.map": "/react-aem-remotepage/static/js/main.a16d4593.chunk.js.map",
+    "runtime-main.js": "/react-aem-remotepage/static/js/runtime-main.96b4c3d1.js",
+    "runtime-main.js.map": "/react-aem-remotepage/static/js/runtime-main.96b4c3d1.js.map",
+    "static/js/2.48743211.chunk.js": "/react-aem-remotepage/static/js/2.48743211.chunk.js",
+    "static/js/2.48743211.chunk.js.map": "/react-aem-remotepage/static/js/2.48743211.chunk.js.map",
+    "index.html": "/react-aem-remotepage/index.html",
+    "static/css/main.528649a4.chunk.css.map": "/react-aem-remotepage/static/css/main.528649a4.chunk.css.map",
+    "static/js/2.48743211.chunk.js.LICENSE.txt": "/react-aem-remotepage/static/js/2.48743211.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/react-aem-remotepage/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96b4c3d1.js",
+    "static/js/2.48743211.chunk.js",
+    "static/css/main.528649a4.chunk.css",
+    "static/js/main.a16d4593.chunk.js"
+  ]
+}
